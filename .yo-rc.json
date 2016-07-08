@@ -1,0 +1,13 @@
+{
+  "generator-ct-ng2": {
+    "componentDirectory": "src/app/component/",
+    "directiveDirectory": "src/app/directive/",
+    "filterDirectory": "src/app/filter/",
+    "serviceDirectory": "src/app/service/",
+    "pipeDirectory": "src/app/pipe/",
+    "classDirectory": "src/app/class/",
+    "interfaceDirectory": "src/app/interface/",
+    "enumDirectory": "src/app/enum/",
+    "inject": {}
+  }
+}
